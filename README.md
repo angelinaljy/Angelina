@@ -14,6 +14,7 @@
   - https://blog.crypto.com/
 
 ### 目前深圳岗位开放如下：
+- [资深后端开发工程师-（Ruby)](https://www.lagou.com/jobs/6748355.html?source=pl&i=pl-9)
 - [全栈开发工程师-(VueJS/ReactJS, Ruby/Elixir)](https://www.lagou.com/jobs/6678486.html?source=pl&i=pl-4)
 - [前端开发工程师-(VueJS/ReactJS)](https://www.lagou.com/jobs/6659011.html?source=pl&i=pl-5)
 - [资深前端开发工程师-(VueJS/ReactJS)](https://www.lagou.com/jobs/6659030.html?source=pl&i=pl-6)
@@ -22,28 +23,29 @@
 - [架构师](https://www.lagou.com/jobs/6583231.html)
 - [项目经理](https://www.lagou.com/jobs/6583241.html)
 
-#### 全栈开发工程师
+
+#### 资深后端开发工程师
 
 ##### 职位诱惑：
-非996，双休，20天年假，弹性工作，外企氛围，免费水果饮料任吃任喝！
+非996，双休，技术大牛多，20天年假+1天生日假，弹性工作，外企氛围，无限量免费水果饮料
 
 ##### 岗位职责：
-- 负责前端技术架构的设计和开发工作；
-- 负责前端团队的组建和持续建设；
+- 负责后端开发工作；
+- 负责后端团队的组建和持续建设；
 - 关注技术动向，研究新技术并攻关技术难题；
-- 负责核心或者重要项目的前端开发 ，保证项目程序的质量和进度。
+- 负责核心或者重要项目的后端开发 ，保证项目程序的质量和进度。
 
 ##### 岗位要求：
-- 3-5年前端以及后端开发经验，熟悉VueJS 或者 React JS，了解AngularJS. 了解所用前端框架的核心原理;
-- 熟悉 HTML/CSS/JavaScript/TypeScript，手写 CSS 和 Javascript/TypeScript 的能力，了解 HTML5 常用特性，ES6 规范，擅长页面布局和重构，浏览器运作原理，浏览器兼容和页面渲染执行效率，Chrome 调试；
-- 熟悉任意一种后端技术：Ruby on Rails, Elixir 和任意一种数据库：Mysql，Postgresql，Redis 等, 熟悉 Event Sourcing;
-- 熟悉数据结构，算法和设计模式知识, TDD 驱动开发;
-- 熟悉 RESTful API 以及 GraphQL 在前端以及后端的运用;
-- 掌握模块管理和打包工具(Webpack等);
-- 有github项目贡献经验，尤其是ReactJS 或者 VueJS, Ruby, Elixir 项目相关贡献经验者优先;
-- 了解 Nginx, 懂前端以及后端项目运维布署优先;
-- 本科及以上学历，计算机相关专业.
+熟悉 Ruby, Ruby on Rails, 若有同时熟悉 Go 或者 Elixir 更佳. 熟悉任意一种数据库：Mysql，Postgresql，Redis 等, 
+熟悉 Event Sourcing;
+熟悉数据结构，算法和设计模式知识, TDD 驱动开发;
+熟悉 RESTful API 以及 GraphQL 在前端以及后端的运用;
+有github项目贡献经验，Ruby, Elixir 项目相关贡献经验者优先;
+了解 Nginx, 懂前端以及后端项目运维布署优先;
+本科及以上学历，计算机相关专业.
+具备一定的英文读写能力，平常会倾向于阅读英文的技术文章。
+
 
 ## 联系方式
-angelina@foris.cn 合适的人才，我们当天联系，当天推荐。
+angelina@foris.cn 合适的人才，我们当天联系，当天推荐！
 
